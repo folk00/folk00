@@ -1,13 +1,11 @@
-# David Gonzalez
+# folk00
 
-Network Automation / GenAI Engineer focused on enterprise networking, SD-WAN,
-hybrid AWS networking and practical AI-assisted infrastructure workflows.
+Network automation and GenAI projects covering enterprise networking, SD-WAN,
+hybrid AWS networking and AI-assisted infrastructure workflows.
 
-I have 15+ years of production network infrastructure experience across Cisco
-data-center, WAN, routing, VPN, segmentation, SD-WAN and change-control
-environments. My current focus is building automation and GenAI-assisted tools
-that help engineers parse context, validate changes, generate MOPs, explain
-network behavior and preserve operational knowledge.
+The repos here focus on automation and GenAI tooling that helps engineers
+parse context, validate changes, generate MOPs, explain network behavior and
+preserve operational knowledge.
 
 ## Featured Projects
 
@@ -19,7 +17,7 @@ network behavior and preserve operational knowledge.
 | [ops-portal](https://github.com/folk00/ops-portal) | Operational infrastructure portal patterns for network/cloud workflow automation. |
 | [cloud-microstack](https://github.com/folk00/cloud-microstack) | Cloud-native microstack with Next.js/FastAPI and AWS/Terraform infrastructure references. |
 
-## Current Focus
+## Focus Areas
 
 - Network automation with Python, Netmiko and Ansible-style workflows
 - Applied GenAI for network troubleshooting, review and documentation
@@ -27,15 +25,7 @@ network behavior and preserve operational knowledge.
 - AWS networking: VPC, Transit Gateway, Site-to-Site VPN, Direct Connect concepts
 - Cisco SD-WAN, Nexus/Catalyst, routing, VPN and enterprise migration workflows
 
-## Certifications
-
-- AWS Certified Advanced Networking - Specialty
-- AWS Certified Solutions Architect - Associate
-- Cisco CCNP Enterprise
-- Cisco DevNet Associate
-- Cisco SD-WAN Implementation Specialist
-
-## How I Think About GenAI
+## GenAI Pattern
 
 The useful pattern is not "chat with a model." It is deterministic software plus
 bounded model reasoning:
