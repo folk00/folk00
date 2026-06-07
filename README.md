@@ -17,7 +17,7 @@ network behavior and preserve operational knowledge.
 | [hybrid-tgw-vpn-terraform](https://github.com/folk00/hybrid-tgw-vpn-terraform) | AWS Transit Gateway + Site-to-Site VPN lab using Terraform, with Linux strongSwan and Cisco C8000v customer gateway paths. |
 | [network-automation-framework](https://github.com/folk00/network-automation-framework) | Multi-vendor network automation framework using Python/Ansible-style structure with Cisco IOS and Arista cEOS/containerlab testing concepts. |
 | [ops-portal](https://github.com/folk00/ops-portal) | Operational infrastructure portal patterns for network/cloud workflow automation. |
-| [cloud-microstack](https://github.com/folk00/cloud-microstack) | Cloud microstack reference project with Next.js/FastAPI and AWS/Terraform infrastructure references. |
+| [cloud-microstack](https://github.com/folk00/cloud-microstack) | Cloud-native microstack with Next.js/FastAPI and AWS/Terraform infrastructure references. |
 
 ## Current Focus
 
@@ -49,4 +49,4 @@ network input / MOP / config / incident
   -> keep a human in the loop
 ```
 
-That is the pattern I am building toward in my reference projects.
+That is the pattern these projects are building toward.
